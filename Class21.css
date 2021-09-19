@@ -1,0 +1,76 @@
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    margin-right: 55px;
+}
+.carousel-caption {
+    position: absolute;
+    left: 181px;
+    top: 297px;
+}
+.carousel-caption h5{
+    font-size: 30px;
+    font-weight: 400;
+}
+.carousel-item{
+    position: relative;
+}
+
+.blockquote{
+    padding: 40px 0;
+}
+.blockquote img{
+    padding-bottom: -30px;
+}
+img{
+    max-width: 100%;
+}
+.blockquote p {
+    margin-top: -40px;
+    margin-bottom: -41px !important;
+    font-size: 17px;
+}
+table {
+    text-align: center;
+  }
+
+/* form-section */
+.form-section{
+    background-color: #ffffff;
+    padding: 40px 0;
+    border-bottom: 10px solid white;
+}
+.w-95{
+    width: 94%;
+    margin: auto;
+}
+
+.w-30{
+    width: 30%;
+    margin-left: 10px;
+}
+.b-card{
+    padding: 40px 0;
+    background-color: #ffffff;
+}
+.b-card .card-text{
+    margin-bottom: -20px !important;
+}
+.cf-1{
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.stretched-sec{
+    background-color: #f8f9fa;
+    padding: 40px 0;
+    margin-top: -40px;
+}
+footer{
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 0;
+}
+.contact-section{
+    padding: 50px 0 !important;
+}
+
